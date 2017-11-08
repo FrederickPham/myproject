@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/famicareteam/microservice_projecthouse.git"
+    "url": "git+ssh:https://github.com/FrederickPham/myproject.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/famicareteam/microservice_projecthouse#readme",
+  "homepage": "https://github.com/FrederickPham/myproject.git",
   "dependencies": {
     "bcrypt": "^1.0.3",
     "bluebird": "^3.5.0",
