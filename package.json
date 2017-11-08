@@ -1,0 +1,28 @@
+{
+  "name": "user_service",
+  "version": "1.0.0",
+  "description": "user & wallet",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server / npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/famicareteam/microservice_projecthouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/famicareteam/microservice_projecthouse#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.5",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.13",
+    "nodemailer": "^4.1.2",
+    "uid2": "0.0.3",
+    "underscore": "^1.8.3"
+  }
+}

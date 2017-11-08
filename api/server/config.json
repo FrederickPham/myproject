@@ -1,0 +1,18 @@
+{
+    "development": {
+        "restApiRoot": "/api",
+        "host": "localhost",
+        "port": "27017",
+        "database": "User",
+        "username": "admin",
+        "password": "1234567"
+    },
+    "production": {
+        "restApiRoot": "/api",
+        "host": "famimedical",
+        "port": "8000",
+        "database": "User",
+        "username": "admin",
+        "password": "1234567"
+    }
+}
